@@ -1,8 +1,9 @@
 ---
 layout: default
-title:  "java throwable"
+title:  Java异常体系
+published: 2019-10-02
 comments: true
-categories: integration
+categories: Java基础
 tags: [java, 异常]
 ---
 
