@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Java Singleton
+title: Java中的单例模式
+published: 2019-10-02
+category: 设计模式
+tag: [设计模式]
 ---
 # lazyLoad-unThreadSafe
 
